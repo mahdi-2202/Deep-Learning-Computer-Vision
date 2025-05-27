@@ -1,4 +1,4 @@
-# Deep-Learning-Computer-Vision
+# Deep-Learning & Computer-Vision
 
 # Introduction
 - Human Perception & Computer Vision
