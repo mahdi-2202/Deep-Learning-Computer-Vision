@@ -1,5 +1,7 @@
 # Deep-Learning & Computer-Vision
 
+![](./Intro/cvdl.png)
+
 # Introduction
 - Human Perception & Computer Vision
 - Math Basics
